@@ -1,0 +1,15 @@
+.DS_Store
+site/
+*.sublime-*
+*.egg-info
+*.pyc
+dist/
+build/
+__pycache__
+.pypirc
+MANIFEST
+*.coverage
+.DS_Store
+output/*
+*.db
+*.log
