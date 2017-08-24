@@ -8,7 +8,7 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 ---
 
-![Caesar in the Code](img/caesarian_code.png)
+![Caesar in the Code](imgs/caesarian_code.png)
 
 ---
 
