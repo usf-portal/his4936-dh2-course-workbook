@@ -25,20 +25,20 @@
     * What is Your Source?
     * Special Collections
     * Reworking Existing Collections, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
+* Reviewing Homework Models
 * SQL
-    * Reviewing Homework Models
+    * Running SQL Statements
+    * Whitespace and Semicolons
+    * Create Table, Insert Into, Alter Table, Update/Set
+    * Select
+        * Column names, Where Statements
+        * Distinct, Aggregates, Functions
+    * Join
     * Workbench
         * Creating a dB
         * Schema Basics / Forward Engineering
         * Designing Models
         * Creating Views
-    * Running SQL Statements
-        * Whitespace and Semicolons
-        * Create Table, Insert Into, Alter Table, Update/Set
-        * Select
-            * Column names, Where Statements
-            * Distinct, Aggregates, Functions
-        * Join
 * Python
     * Review, Lists, Dictionaries, Functions
     * Classes
