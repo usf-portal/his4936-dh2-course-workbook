@@ -20,5 +20,22 @@
     * How Queries Work
 
 ## Week 2 - Programming Objects & SQL
-* Problems: The Gap Between Object and CSV
-* Designing Schema, then Designing Excel Workbooks for Them
+* Think About Project
+    * Historical
+    * What is Your Source?
+    * Special Collections
+* SQL
+    * Reviewing Homework Models
+    * Workbench
+        * Creating a dB
+        * Schema Basics / Forward Engineering
+        * Designing Models
+        * Creating Views
+    * Running SQL Statements
+        * Whitespace and Semicolons
+        * Create Table, Insert Into, Alter Table, Select, Update/Set
+* Python
+    * Review, Lists, Dictionaries, Functions
+    * Classes
+        * Properties, Methods, Magic Methods
+        * Web Scraping Example
