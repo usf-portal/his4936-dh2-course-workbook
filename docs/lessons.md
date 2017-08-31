@@ -24,8 +24,8 @@
     * Historical
     * What is Your Source?
     * Special Collections
-    * Reworking Existing Collections, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
 * Reviewing Homework Models
+* Reworking Existing Collections, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
 * SQL
     * Running SQL Statements
     * Whitespace and Semicolons
