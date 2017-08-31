@@ -33,7 +33,11 @@
         * Creating Views
     * Running SQL Statements
         * Whitespace and Semicolons
-        * Create Table, Insert Into, Alter Table, Select, Update/Set
+        * Create Table, Insert Into, Alter Table, Update/Set
+        * Select
+            * Column names, Where Statements
+            * Distinct, Aggregates, Functions
+        * Join
 * Python
     * Review, Lists, Dictionaries, Functions
     * Classes
