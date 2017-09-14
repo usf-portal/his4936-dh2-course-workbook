@@ -44,6 +44,19 @@
     * What are the Contradictions?
     * Limitations?
     * Potentials?
+* Python
+    * Starting a Git Repository
+    * Importing from other files, other folders, \__init__.py
+    * Classes
+        * Magic Methods
+        * Inheritance
+        * Beautiful Soup in Action, [Florida WPA Records](https://www.floridamemory.com/collections/churchrecords/)
+* Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
+    * SQL
+    * Or, Python
+* Discussion Part 2: Power and Politics of DH
+    * The Conservatism of Statistics
+    * Mapping and the Production of Power
 * SQL
     * Running SQL Statements
     * Whitespace and Semicolons
@@ -57,18 +70,3 @@
         * Schema Basics / Forward Engineering
         * Designing Models
         * Creating Views
-* Discussion Part 2: Power and Politics of DH
-    * The Conservatism of Statistics
-    * Mapping and the Production of Power
-    *
-* Python
-    * Importing from other files, other folders, \__init__.py
-    * Classes
-        * Magic Methods
-        * Inheritance
-        * Beautiful Soup in Action, [Florida WPA Records](https://www.floridamemory.com/collections/churchrecords/)
-    * Programmatic Databases
-        * Peewee
-* Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
-    * SQL
-    * Or, Python
