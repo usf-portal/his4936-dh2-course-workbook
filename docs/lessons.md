@@ -25,7 +25,25 @@
     * What is Your Source?
     * Special Collections
 * Reviewing Homework Models
-* Reworking Existing Collections, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
+* Thinking About, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
+* Python
+    * Review, Lists, Dictionaries, Functions
+    * Classes
+        * Properties, Methods, Magic Methods
+        * Web Scraping Example
+
+## Week 3 - Cancelled Due to Inclement Weather
+
+## Week 4 - What are Data?
+
+* Setup
+    * Start MySQL Workbench
+    * Or, (if not installed), Anaconda
+    * Ensure that Github Desktop and Atom are installed
+* Discussion Part 1: What are Data?
+    * What are the Contradictions?
+    * Limitations?
+    * Potentials?
 * SQL
     * Running SQL Statements
     * Whitespace and Semicolons
@@ -39,8 +57,18 @@
         * Schema Basics / Forward Engineering
         * Designing Models
         * Creating Views
+* Discussion Part 2: Power and Politics of DH
+    * The Conservatism of Statistics
+    * Mapping and the Production of Power
+    *
 * Python
-    * Review, Lists, Dictionaries, Functions
+    * Importing from other files, other folders, \__init__.py
     * Classes
-        * Properties, Methods, Magic Methods
-        * Web Scraping Example
+        * Magic Methods
+        * Inheritance
+        * Beautiful Soup in Action, [Florida WPA Records](https://www.floridamemory.com/collections/churchrecords/)
+    * Programmatic Databases
+        * Peewee
+* Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
+    * SQL
+    * Or, Python
