@@ -24,7 +24,7 @@
     - Miriam Posner, ["What's Next, The Radical Unrealized Potential of Digital Humanities"](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities)
 * On Canvas, submit a one paragraph description of a project you might be interested in pursuing. If you already have a source of data in mind, make sure to include that. If you don't know what you want to research yet, tell me in what subjects you might want to start looking.
 
-## Week 5 - Planning and Organizing
+## Week 5 - Designing Schema and the Anatomy of a Query
 * Head Back to Codecademy
     * EITHER go to the SQL course and complete unit 3, and submit a screenshot
     * OR go to the Python course and complete unit's 6-8, and submit a screenshot

@@ -37,13 +37,8 @@
 ## Week 4 - What are Data?
 
 * Setup
-    * Start MySQL Workbench
-    * Or, (if not installed), Anaconda
+    * Start Anaconda
     * Ensure that Github Desktop and Atom are installed
-* Discussion Part 1: What are Data?
-    * What are the Contradictions?
-    * Limitations?
-    * Potentials?
 * Python
     * Starting a Git Repository
     * Importing from other files, other folders, \__init__.py
@@ -51,6 +46,18 @@
         * Magic Methods
         * Inheritance
         * Beautiful Soup in Action, [Florida WPA Records](https://www.floridamemory.com/collections/churchrecords/)
+
+## Week 5 - Designing Schema and the Anatomy of a Query
+
+* Setup
+    * Download [Violet UML Editor](https://sourceforge.net/projects/violet/?source=typ_redirect)
+* Discussion Part 1: What are Data?
+    * What are the Contradictions?
+    * Limitations?
+    * Potentials?
+* Your Sources....
+    * Presenting Your Source
+    * Troubleshooting Problems and Potentials Together
 * Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
     * SQL
     * Or, Python
