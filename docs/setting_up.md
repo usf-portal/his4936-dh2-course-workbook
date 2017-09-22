@@ -22,3 +22,5 @@ On Mac (OSX), you access the terminal by going to your Applications folder, then
 **$ indicates the start of a new command, do not enter it into the terminal/command prompt**
 
 #### Installing MySQL and Workbench
+
+**When installing MySQL Server, choose a custom install, and make sure to choose the MySQL for Excel plugin**
