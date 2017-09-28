@@ -49,19 +49,28 @@
 
 ## Week 5 - Designing Schema and the Anatomy of a Query
 
-* Setup
-    * Download [Violet UML Editor](https://sourceforge.net/projects/violet/?source=typ_redirect)
 * Discussion Part 1: What are Data?
     * What are the Contradictions?
     * Limitations?
     * Potentials?
+* Creating a Database
+    * Schema
+    * Forward Engineering
 * Your Sources....
     * Presenting Your Source
     * Troubleshooting Problems and Potentials Together
-* Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
-    * SQL
-    * Or, Python
-* Discussion Part 2: Power and Politics of DH
+
+## Week 6
+
+* How a Full Stack Application Works
+* * Getting Help, Slack, ProgrammingHistorian, StackOverflow, Lynda
+* Your Sources (Continued)....
+    * Presenting Your Source
+    * Troubleshooting Problems and Potentials Together
+* Discussion: What are Data?
+    * What are the Contradictions?
+    * Limitations?
+    * Potentials?
     * The Conservatism of Statistics
     * Mapping and the Production of Power
 * SQL
@@ -71,9 +80,4 @@
     * Select
         * Column names, Where Statements
         * Distinct, Aggregates, Functions
-    * Join
-    * Workbench
-        * Creating a dB
-        * Schema Basics / Forward Engineering
-        * Designing Models
-        * Creating Views
+* Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)

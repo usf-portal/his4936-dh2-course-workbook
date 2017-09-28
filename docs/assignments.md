@@ -38,3 +38,15 @@
         * How can it be accessed?
         * What are difficulties in turning it digital?
     * **Come to class prepared to talk about how we might explore it.**
+
+## Week 6 - No Homework
+
+## Week 7 - Modeling
+* Read BOTH of the following carefully, and refer back to it when making your dB models
+    * [Celtic Inscribed Stones Project, Introduction to Databases](http://www.ucl.ac.uk/archaeology/cisp/database/manual/node1.html), a short easier read about databases written by digital humanists who worked the Celtic Inscribed Stones Project
+    * [Introduction to db modeling](http://datanamic.com/support/lt-dez005-introduction-db-modeling.html), a slightly more advanced explanation. Some material will repeat what you read above, but will go into more detail. This was written by people who specialize in databases.
+* Create a model of an historical source that you want to use for your project
+    * Your model must have at least 4 tables
+    * Your model should contain relationships *between* the tables (including many-to-many joins)
+    * Submit your model (the .mwb file created by Workbench) on Canvas
+    * Be prepared to talk about your model in class
