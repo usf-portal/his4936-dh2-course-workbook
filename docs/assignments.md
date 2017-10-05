@@ -42,6 +42,7 @@
 ## Week 6 - No Homework
 
 ## Week 7 - Modeling
+
 * Read BOTH of the following carefully, and refer back to it when making your dB models
     * [Celtic Inscribed Stones Project, Introduction to Databases](http://www.ucl.ac.uk/archaeology/cisp/database/manual/node1.html), a short easier read about databases written by digital humanists who worked the Celtic Inscribed Stones Project
     * [Introduction to db modeling](http://datanamic.com/support/lt-dez005-introduction-db-modeling.html), a slightly more advanced explanation. Some material will repeat what you read above, but will go into more detail. This was written by people who specialize in databases.
@@ -50,3 +51,17 @@
     * Your model should contain relationships *between* the tables (including many-to-many joins)
     * Submit your model (the .mwb file created by Workbench) on Canvas
     * Be prepared to talk about your model in class
+
+## Week 8 - When the Plan Meets the Enemy
+
+* Model and Data Entry for the [Julia Domna Inscriptions of the Severan Coin Database](http://web3.forest.usf.edu/main/other/severan/jdi/)
+    * In Workbench
+        * Create a Model file (.mwb) for the Julia Domna Inscriptions
+        * Create tables for the inscriptions and people places etc... that appear on them
+        * Make any other necessary tables to record relationships
+        * You may use multiple EER (entity relationships) diagrams
+    * In Excel
+        * Create a Workbook file (.xlsx) for the data for your models
+        * Create a worksheet for every table (rename the worksheet to the same name as the table)
+        * Attempt to do the full data entry for **10** inscriptions. That means recording all of the entities for your tables, and the relationships between them, that can be found on those 10 inscriptions
+    * On Canvas, submit your .mwb and your .xlsx file

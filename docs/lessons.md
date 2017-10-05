@@ -80,4 +80,20 @@
     * Select
         * Column names, Where Statements
         * Distinct, Aggregates, Functions
+
+
+## Week 7
+
+* Using Learning Resources
+    * [W3 Schools Reference](https://www.w3schools.com/sql/default.asp)
+    * [MySQLTutorial](http://www.mysqltutorial.org)
+* Next Week's Homework
+* A Sample Database [MySqlTutorial](http://www.mysqltutorial.org)
+    * Joining Tables
+    * Filtering, Where Conditions
+    * Selecting Columns, Distinct, Union
+    * Views
 * Trying to Model, [Severan Coin Database](http://web3.cas.usf.edu/main/other/severan/databases/)
+    * Coming Up with Tables
+    * Thinking About Data Entry with Views
+    * Homework
