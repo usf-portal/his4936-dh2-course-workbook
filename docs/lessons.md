@@ -84,6 +84,12 @@
 
 ## Week 7
 
+* Running a linux server, howto
+    * ubuntu
+    * apt / apt-get
+    * port-forwarding
+    * webmin
+    * x2go / lxde
 * Using Learning Resources
     * [W3 Schools Reference](https://www.w3schools.com/sql/default.asp)
     * [MySQLTutorial](http://www.mysqltutorial.org)
