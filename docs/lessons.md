@@ -103,3 +103,15 @@
     * Coming Up with Tables
     * Thinking About Data Entry with Views
     * Homework
+
+## Week 8
+* Severan Coin Database - Discussing Your Models
+* Sample Database
+    * Joining tables, strategies
+    * Column selection
+    * Where clauses
+    * Ordering and Grouping
+    * Aggregation and MySQL functions
+* Connecting Tableau
+* Programming, Mapping Classes onto a dB
+* Refining Your Projects

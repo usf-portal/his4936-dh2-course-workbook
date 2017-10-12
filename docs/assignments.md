@@ -65,3 +65,16 @@
         * Create a worksheet for every table (rename the worksheet to the same name as the table)
         * Attempt to do the full data entry for **10** inscriptions. That means recording all of the entities for your tables, and the relationships between them, that can be found on those 10 inscriptions
     * On Canvas, submit your .mwb and your .xlsx file
+
+## Week 9
+
+* Read the following...
+    * [The Programming Historian - Creating Network Diagrams from Historical Sources](https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+    * [Microsoft - Database Design Basics] - https://support.office.com/en-us/article/Database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
+    * [r937.com - Fundamentals of Relational Database Design](http://r937.com/relational.html)
+    * [LucidChart - Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
+    * **OPTIONAL READ** [The Programming Historian - Exploring and Analyzing Network Data with Python](https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python)
+* Create the select statements for 4 views of the sample database at thePortus
+    * Your views should make sense for some likely use of the datebase. For example, it might contain ordering information for customers on a website... or for a business report used by a company for internal analysis
+    * All views must all JOIN at least two tables together
+    * At least one of the views should perform some kind of aggregation (using GROUP BY and some kind of function like SUM)
