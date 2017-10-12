@@ -71,7 +71,6 @@
 * Read the following...
     * [The Programming Historian - Creating Network Diagrams from Historical Sources](https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
     * [Microsoft - Database Design Basics] - https://support.office.com/en-us/article/Database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
-    * [r937.com - Fundamentals of Relational Database Design](http://r937.com/relational.html)
     * [LucidChart - Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
     * **OPTIONAL READ** [The Programming Historian - Exploring and Analyzing Network Data with Python](https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python)
 * Create the select statements for 4 views of the sample database at thePortus
