@@ -131,5 +131,12 @@ sudo apt-get upgrade -y
 # use install to get a new package (you can also use the -y flag to bypass confirmation)
 sudo apt-get install some-package
 
+# use to install Python 3 and development libraries
+sudo apt-get install python3 python3-pip python3-venv
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev
 
+# use to install nodejs
+sudo apt-get install build-essential
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
 ```
