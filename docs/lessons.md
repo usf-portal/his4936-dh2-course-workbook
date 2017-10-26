@@ -1,6 +1,6 @@
 # Class Schedule
 
-## Week 1 - Digital Modeling
+## Week 1
 * What is Modeling? What are our Outcomes?
 * Data and Data Choices
 * Programming Review
@@ -19,7 +19,7 @@
     * How Schemata Work
     * How Queries Work
 
-## Week 2 - Programming Objects & SQL
+## Week 2
 * Think About Project
     * Historical
     * What is Your Source?
@@ -34,7 +34,7 @@
 
 ## Week 3 - Cancelled Due to Inclement Weather
 
-## Week 4 - What are Data?
+## Week 4
 
 * Setup
     * Start Anaconda
@@ -47,7 +47,7 @@
         * Inheritance
         * Beautiful Soup in Action, [Florida WPA Records](https://www.floridamemory.com/collections/churchrecords/)
 
-## Week 5 - Designing Schema and the Anatomy of a Query
+## Week 5
 
 * Discussion Part 1: What are Data?
     * What are the Contradictions?
@@ -105,6 +105,7 @@
     * Homework
 
 ## Week 8
+
 * Severan Coin Database - Discussing Your Models
 * Sample Database
     * Joining tables, strategies
@@ -113,5 +114,13 @@
     * Ordering and Grouping
     * Aggregation and MySQL functions
 * Connecting Tableau
-* Programming, Mapping Classes onto a dB
 * Refining Your Projects
+
+## Week 9
+
+* DH Box - Working with Linux
+* Sample Database - Making Views
+* Programming, Mapping Classes onto a dB
+* Refining Projects
+* Severan Coin Database - Discussing Your Models
+* SPARQL

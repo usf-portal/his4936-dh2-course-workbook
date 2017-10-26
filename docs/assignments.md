@@ -77,3 +77,7 @@
     * Your views should make sense for some likely use of the datebase. For example, it might contain ordering information for customers on a website... or for a business report used by a company for internal analysis
     * All views must all JOIN at least two tables together
     * At least one of the views should perform some kind of aggregation (using GROUP BY and some kind of function like SUM)
+
+## Week 10
+
+* Check in with me on Slack within two days of the previous class for individualized assignments
