@@ -81,7 +81,6 @@
         * Column names, Where Statements
         * Distinct, Aggregates, Functions
 
-
 ## Week 7
 
 * Running a linux server, howto
@@ -122,5 +121,13 @@
 * Sample Database - Making Views
 * Programming, Mapping Classes onto a dB
 * Refining Projects
+
+## Week 10
+
+* Setting Up Wordpress Servers
+* Linked Open Data - Sparql
+* Sample Database
+    * Views Continued
+    * Nested Select Statements
+* Working On Your Projects
 * Severan Coin Database - Discussing Your Models
-* SPARQL
