@@ -140,3 +140,59 @@ sudo apt-get install build-essential
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
+
+--
+
+## Week 10 Continued
+
+```sql
+SELECT
+	employees.employeeNumber,
+    employees.lastName,
+    employees.firstName,
+    employees.extension,
+    employees.email,
+    employees.officeCode,
+    employeeBosses.bossName,
+    employees.jobTitle
+FROM classicmodels.employees AS employees
+	JOIN
+	(
+		SELECT
+			employees.employeeNumber,
+			CONCAT(bosses.firstName, " ", bosses.lastName) AS bossName
+		FROM classicmodels.employees AS employees
+			JOIN classicmodels.employees AS bosses
+				ON employees.reportsTo = bosses.employeeNumber
+	) AS employeeBosses
+    ON employees.employeeNumber = employeeBosses.employeeNumber
+```
+
+TODO: Add building queries in tableau
+
+---
+
+## Week 11
+
+```sql
+SELECT
+	studio.idStudio AS `Studio ID`,
+    studio.country AS `Country`,
+    studio.`production/Distribution` AS `Production / Distribution`,
+    movie.relDate AS `Release Date`,
+    movie.bOffice AS `Box Office`,
+    movie.subGenre AS `Sub Genre`,
+    wars.name as `War`,
+    wars.dates AS `Dates`,
+    wars.outcome AS `Outcome`
+FROM usf_mlosasso.Studio AS studio
+	INNER JOIN usf_mlosasso.MovieStudio AS movie_studio
+		ON studio.idStudio = movie_studio.Studio_idStudio
+    INNER JOIN usf_mlosasso.Movie AS movie
+		ON movie_studio.Movie_idTitle = movie.idTitle
+    INNER JOIN usf_mlosasso.MovieWarsDepicted AS war_in_movie
+		ON movie.idTitle = war_in_movie.Movie_idTitle
+    INNER JOIN usf_mlosasso.Wars AS wars
+		ON war_in_movie.Wars_idWars = wars.idWars
+	
+```
