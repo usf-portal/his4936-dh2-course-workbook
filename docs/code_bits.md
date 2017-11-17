@@ -217,3 +217,47 @@ FROM classicmodels.customers as customers
 		USING (customerNumber)
 GROUP BY customers.customerNumber
 ```
+
+#### Joining Missions and Targets for WWII Bombing
+
+```sql
+SELECT
+	*
+FROM usf_dclement.Mission as mission
+	JOIN usf_dclement.Mission_has_Location as mission_location
+		ON mission.Mission_ID = mission_location.Mission_Mission_ID
+	JOIN usf_dclement.Location as location
+		ON location.Location_ID = mission_location.Location_Location_ID
+	JOIN usf_dclement.Location_has_Target as location_target
+		ON location.Target_ID = location_target.Target_Target_ID
+	JOIN usf_dclement.Target as target
+		ON target.Target_ID = location_target.Target_Target_ID
+```
+
+#### Joining Studios to the Wars of Their Movies
+
+```sql
+SELECT
+	studio.idStudio AS 'Studio ID',
+    COUNT(movie.idTitle) AS 'Total Movies',
+    SUM(
+		CASE WHEN wars.name = 'World War II' THEN 1
+        ELSE 0 END
+    ) AS 'World War II Movies',
+    SUM(
+		CASE WHEN wars.name = 'Korean War' THEN 1
+        ELSE 0 END
+    ) AS 'Korean War Movies'
+
+FROM
+	usf_mlosasso.Studio AS studio
+    INNER JOIN usf_mlosasso.MovieStudio AS movie_studio
+		ON studio.idStudio = movie_studio.Studio_idStudio
+	INNER JOIN usf_mlosasso.Movie AS movie
+		ON movie_studio.Movie_idTitle = movie.idTitle
+    INNER JOIN usf_mlosasso.MovieWarsDepicted AS war_in_movie
+        ON movie.idTitle = war_in_movie.Movie_idTitle
+    INNER JOIN usf_mlosasso.Wars AS wars
+        ON war_in_movie.Wars_idWars = wars.idWars
+GROUP BY studio.idStudio
+```
