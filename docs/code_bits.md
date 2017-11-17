@@ -194,5 +194,26 @@ FROM usf_mlosasso.Studio AS studio
 		ON movie.idTitle = war_in_movie.Movie_idTitle
     INNER JOIN usf_mlosasso.Wars AS wars
 		ON war_in_movie.Wars_idWars = wars.idWars
-	
+
+```
+
+### Week 12
+
+#### Using CASE WHEN to calculate conditionals
+
+```sql
+SELECT
+	customers.customerNumber,
+    customers.customerName,
+    customers.contactLastName,
+    customers.contactFirstName,
+    customers.phone,
+    COUNT(orders.status) AS totalOrders,
+    SUM(CASE WHEN orders.status = "Shipped" THEN 1 ELSE 0 END) AS completedOrders,
+    SUM(CASE WHEN orders.status = "In Process" THEN 1 ELSE 0 END) AS inProcessOrders
+
+FROM classicmodels.customers as customers
+	JOIN classicmodels.orders as orders
+		USING (customerNumber)
+GROUP BY customers.customerNumber
 ```
