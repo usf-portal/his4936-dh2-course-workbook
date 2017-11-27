@@ -5,7 +5,7 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 ---
 
-To see this workbook, head to [our ReadTheDocs page](http://hacking-history.readthedocs.io)
+To see this workbook, head to [our ReadTheDocs page](http://programming-the-past.readthedocs.io)
 
 ---
 
