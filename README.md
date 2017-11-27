@@ -9,7 +9,7 @@ To see this workbook, head to [our ReadTheDocs page](http://hacking-history.read
 
 ---
 
-[![Documentation Status](https://readthedocs.org/projects/hacking-history/badge/?version=master)](http://hacking-history.readthedocs.io/en/master/?badge=master)
+[![Documentation Status](https://readthedocs.org/projects/programming-the-past/badge/?version=master)](http://programming-the-past.readthedocs.io/en/master/?badge=master)
 
 ---
 
